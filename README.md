@@ -24,3 +24,6 @@ python3 truecaller-scraping.py
 
 ## License
 This project is licensed under the MIT License.
+
+Support me at : https://trakteer.id/dr298
+[![@dr298's Holopin board](https://holopin.me/dr298)](https://holopin.io/@dr298)
